@@ -1,2 +1,4 @@
 # movie-store
-i made a movie store with html and css 
+
+made by moatasem
+i made a movie store with html and css
